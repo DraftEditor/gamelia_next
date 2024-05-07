@@ -1,0 +1,7 @@
+.chat_content_a{
+    width: calc(100% - 260px);
+}
+
+.chat_content_b{
+    display: flex;
+}
